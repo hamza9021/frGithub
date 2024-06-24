@@ -1,5 +1,5 @@
 # frGithub
-Demo For Github learning
+Demo For Github learning.
 
 #include<iostream>
 using namespace std;
